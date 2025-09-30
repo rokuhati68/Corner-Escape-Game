@@ -13,28 +13,22 @@
 ## プレイ
 
 - **GitHub Pages（ブラウザでそのまま遊べます）**  
-  https://rokuhati68.github.io/Break-Typing-Game/
+  https://rokuhati68.github.io/Corner-Escape-Game/
 
 - **unityroom にも公開しています**  
-  タイピングゲーム：休み時間だ！（https://unityroom.com/games/friends_typing）
+  弾幕Escape（https://unityroom.com/games/fireescape）
 
 ---
 
 ## ゲーム概要
 
-- 1 昼休みに使うボールを覚えておこう
-- 2 チャイムが鳴ったらEnterで教室を出よう
-- 3 一緒に遊ぶ友達をタイピングして誘おう
-- 4 最初に覚えたボールをマウスでクリック
+プレイヤーめがけてて来る弾から逃げ続けよう
 
 ---
 
 ## 操作方法
 
-### Enter/ 教室を出る
-### キーボード / タイピング
-### クリック /ボールを選ぶ
-## ※音ありでプレイしてください（チャイムの音が聞こえなくなるため）
+マウス/移動
 
 
 ---
