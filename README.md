@@ -16,7 +16,7 @@
   https://rokuhati68.github.io/Corner-Escape-Game/
 
 - **unityroom にも公開しています**  
-  弾幕Escape（https://unityroom.com/games/fireescape）
+  弾幕Escape（https://unityroom.com/games/fireescape)
 
 ---
 
